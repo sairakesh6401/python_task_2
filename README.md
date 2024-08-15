@@ -1,3 +1,9 @@
+Open python task file in any IDE[eg ."Vs code"] which has run the below commands
+
+**pip install django**
+
+
+
 **python manage.py makemigrations**      ------>      "The generated migration files are stored in the migrations directory within your Django app. These files contain the SQL statements needed to apply the 
                                                          changes to the database.You can then apply these migrations to update your database schema by running the migrations command."
 
